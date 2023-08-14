@@ -1,3 +1,3 @@
 # ML_Projects_Classification
 # Table of contents
-# 1. Churn Prediction for Telephone Company
+## 1. Churn Prediction for Telephone Company
