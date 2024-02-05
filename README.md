@@ -7,4 +7,5 @@
 The goal of this project is to use machine learning techniques to improve the accuracy of detecting credit card fraudulent activities. The model will be trained on a dataset of credit card transactions and the goal is to improve the measure called Area Under the Precision-Recall Curve (AUPRC). Additionally, the project aims to acquire more knowledge about the financial industry and how to apply machine learning to real-world problems.
 # 5. Logistic Regression
 The goal of this project is to use logistic machine learning techniques from sklearn to predict the user ads product purchase. In this project two models developed, 1. using sklearn standard library and 2. model developement from scratch. Both models accuracy compared. 
-
+# 6. IMDB Movie Review Sentimental Analysis 
+The goal of this project is perform sentimental analysis on Moview review dataset using nltk and sklearn libraries. During classification, 3 models developed and selected best of performing model. Performed hyper parameter tuning to select best parameters. 
