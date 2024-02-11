@@ -9,3 +9,5 @@ The goal of this project is to use machine learning techniques to improve the ac
 The goal of this project is to use logistic machine learning techniques from sklearn to predict the user ads product purchase. In this project two models developed, 1. using sklearn standard library and 2. model developement from scratch. Both models accuracy compared. 
 # 6. IMDB Movie Review Sentimental Analysis 
 The goal of this project is perform sentimental analysis on Moview review dataset using nltk and sklearn libraries. During classification, 3 models developed and selected best of performing model. Performed hyper parameter tuning to select best parameters. 
+# 7. Airline Review Sentimental Analysis
+The goal of this project is perform sentimental analysis on airline review dataset using nltk and sklearn libraries. Deep learning model implemented to perform classification. Performed hyper parameter tuning to select best parameters.
